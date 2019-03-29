@@ -20,5 +20,9 @@
 }
 
 #wall .parent + .parent + .parent div#tag-6 {
+  display: none;
+}
+
+#wall .parent + .parent + .parent div#tag-7.slick {
   display: none; 
 }
